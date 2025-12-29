@@ -3,6 +3,7 @@ from flask_cors import CORS
 from flask_limiter import Limiter
 from flask_limiter.util import get_remote_address
 from dotenv import load_dotenv
+from config import Config
 
 # Import updated services
 from services.knowledge_base_service import get_knowledge_service
@@ -98,6 +99,6 @@ if __name__ == "__main__":
         print("🚀 Starting Minterminds Chatbot API...")
         print("📡 Running on: http://localhost:5000")
         print("🔒 Rate limiting enabled: 50 requests per hour per IP")
-        app.run(debug=True, port=5000, host="0.0.0.0")
+        app.run(debug=True, port=Config.PORT, host="0.0.0.0")
     else:
         print("❌ Failed to start application")
