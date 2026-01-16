@@ -70,7 +70,7 @@ We've worked with diverse clients including:
 
 ### Primary Contact
 **Email**: contact@minterminds.com  
-**Phone**: [Available on request]
+**Phone**: +91 82889 67500
 **Address**: Industrial Area Phase I, Chandigarh, India
 
 ### Department Contacts
@@ -86,6 +86,7 @@ Saturday: 10:00 AM - 2:00 PM
 Sunday: Closed
 
 ### Connect With Us
+- **Email**:contact@minterminds.com
 - **LinkedIn**: [Your LinkedIn Profile]
 - **Twitter**: [Your Twitter Handle]
 - **GitHub**: [Your GitHub Organization]
